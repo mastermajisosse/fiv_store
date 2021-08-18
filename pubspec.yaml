@@ -29,6 +29,8 @@ dependencies:
   cupertino_icons: ^1.0.2
   flutter_staggered_grid_view: ^0.4.0
   flutter_screenutil: ^5.0.0+2
+  shared_preferences: ^2.0.6
+  provider: ^5.0.0
 
 dev_dependencies:
   flutter_test:
@@ -62,7 +64,7 @@ flutter:
   fonts:
     - family: karla
       fonts:
-        - asset: assets/fonts/karla.ttf
+        - asset: assets/fonts/Karla-Regular.ttf
   #   - family: Schyler
   #     fonts:
   #       - asset: fonts/Schyler-Regular.ttf
